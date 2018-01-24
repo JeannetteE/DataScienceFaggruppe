@@ -1,15 +1,20 @@
 ---
 layout: default
-title: Contact
+title: Kontakt
 ---
 
-If you have any questions about DST4L, please contact Jeannette Ekstrøm from DTU Library.
-<br>
-<br>
+_Data Science Faggruppen_ er en faggruppe under <a href="http://www.bf.dk">Bibliotekarforbundet</a>.<br>
 
-- Telephone: +45 45257416 <br />
-- Email: <a href="mailto:jeek@dtu.dk">jeek@dtu.dk</a> <br />
-- Twitter: @JEkstroem <br />
+Har du interesse i at blive medlem af faggruppen skal du kontakte BFs medlemsafdeling på <email>
+
+Men har du ideer til faggruppens arbejde, så kan du kontakte ...<br>
+
+   - Jeannette Ekstrøm
+   - Formand for DS FAGGRUPPEN
+   - Arbejdssted: DTU Bibliotek <br>
+   - Telefon: +45 45257416 <br />
+   - Email: <a href="mailto:jeek@dtu.dk">jeek@dtu.dk</a> <br />
+   - Twitter: @JEkstroem <br />
 
 
 
