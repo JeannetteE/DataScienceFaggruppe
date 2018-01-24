@@ -1,8 +1,11 @@
-# dst4l
-Website for DST4L - Data Savy Training for Librarians.
-denne web er lavet med Jekyll, GitHub pages, bootstrap templates ....
+# Data Science Faggruppen - under BF
+Website er udarbejdet ud fra samme principper som DST4L - Data Savy Training for Librarians - sitet.
+Denne web er lavet med Jekyll, GitHub pages, bootstrap templates og masser af assistance fra BoFrese  ....
 
-The site is public at <http://dst4l.github.io> and eventually at <http://www.dst4l.info>
+Sitet er offentligt, og kan forkes af alle - hvis interesse.
+Se <http://JeannetteE.github.io/DataScienceFaggruppe/> og "storebror" <http://www.dst4l.info>
+
+*****
 
 
 ## Guide to using and maintaining this website
